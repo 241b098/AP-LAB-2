@@ -1,2 +1,4 @@
 # AP-LAB-2
-THIS FILE CONTAINS ...
+
+This repo contains all lab exercises
+
